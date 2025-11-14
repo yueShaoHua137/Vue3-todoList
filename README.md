@@ -87,11 +87,3 @@ pnpm run preview
 
 该仓库附带 `LICENSE` 文件，请参阅以了解具体许可信息。
 
----
-
-如果你希望，我可以：
-
-- 帮你补充或生成 `package.json` 的 scripts（若需要我可以检查当前 `package.json` 并给出精确命令）
-- 为组件或关键逻辑补充说明或单元测试样例
-
-请告诉我你接下来想要我做什么（例如：检查 `package.json` 并把 README 中的运行命令与实际脚本对齐）。
